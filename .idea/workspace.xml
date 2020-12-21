@@ -7,6 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45fbfd6f-70d8-4c10-b66e-b129f8553c73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/myFirstServlet/Validate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/myFirstServlet/service.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/myFirstServlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/myFirstServlet/LoginServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/MyFirstServlet.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/MyFirstServlet.war" afterDir="false" />
@@ -26,9 +28,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Class" />
         <option value="Jsp File" />
         <option value="JavaScript File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -61,6 +63,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.bridgelabz.myFirstServlet.service" />
+      <recent name="com.bridgelabz.myFirstServlet.Validate.java" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Heros\IdeaProjects\FirstServlet\src\main\webapp\WEB-INF" />
     </key>
@@ -233,7 +239,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607711377437</updated>
-      <workItem from="1607711382275" duration="27738000" />
+      <workItem from="1607711382275" duration="28756000" />
+      <workItem from="1608529953873" duration="630000" />
     </task>
     <servers />
   </component>
@@ -245,7 +252,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
